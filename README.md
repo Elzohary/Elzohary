@@ -4,9 +4,8 @@
 <h2 align="center">
   Languages and Tools
 </h2>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=angular,reactivex,ts,js,cs,cpp,dotnet,html,css,sass,bootstrap,tailwind,git,aws,figma,pr,ps,ai" />
-</p>
+
 
 
 
