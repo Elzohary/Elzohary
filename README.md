@@ -1,7 +1,7 @@
-### Hi there 👋, I am Mohamed Elzohary
-<h3 align="center">
+<!-- ### Hi there 👋, I am Mohamed Elzohary -->
+<h2 align="center">
     Hi There 👋, I'm Mohamed Elzohary
-</h3>
+</h2>
 <!--
 **Elzohary/Elzohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
