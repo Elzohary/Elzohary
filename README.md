@@ -2,8 +2,9 @@
     Hi There 👋, I'm Mohamed Elzohary
 </h2>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&pause=1000&width=435&lines=Learning..." alt="Typing SVG" />
-
+<span align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&pause=1000&width=435&lines=Learning..." alt="Typing SVG" />
+</span>
 - 🌱 I’m currently learning THREE.js and WebGl.
 - 💬 Ask me about anything 😄.
 - 📫 To reach me:
