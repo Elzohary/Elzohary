@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Learning..." alt="Typing SVG" />
 </p>
 
 - 🌱 I’m currently learning THREE.js and WebGl.
