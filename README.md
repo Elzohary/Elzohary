@@ -1,5 +1,6 @@
 <h2 align="center">
     Hi There 👋, I'm Mohamed Elzohary
+    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&pause=1000&width=435&lines=Learning..." alt="Typing SVG" />
 </h2>
 
 - 🌱 I’m currently learning THREE.js and WebGl.
