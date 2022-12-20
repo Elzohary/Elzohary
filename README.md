@@ -1,6 +1,11 @@
 <h2 align="center">
     Hi There 👋, I'm Mohamed Elzohary
 </h2>
+
+- 🌱 I’m currently learning THREE.js and WebGl.
+- 💬 Ask me about anything 😄.
+
+
 <h2 align="center">
   Languages and Tools
 </h2>
